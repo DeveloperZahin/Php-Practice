@@ -7,7 +7,7 @@
 </head>
 <body>
     <!-- POST or GET -->
-    <form action="Class4output.php" method="POST">
+    <form action="From+.php" method="POST">
 
         <label for="">Username</label>
         <input type="text" name="user_name"> <br><br>
